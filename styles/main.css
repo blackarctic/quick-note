@@ -1,0 +1,13 @@
+.hideMe {
+	display: none;
+}
+
+.clickable {
+	cursor: pointer;
+}
+
+.noteListItem .noteBody {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
