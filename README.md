@@ -6,4 +6,4 @@ Written in jQuery following MVC. Also utilizing Boostrap and Underscore.js.
 
 --
 
-Check it out at <http://blackarcticstudio.com/quicknote>
+Check it out at <http://blackarctic.io/quicknote>
